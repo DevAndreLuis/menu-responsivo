@@ -17,9 +17,13 @@ Este é um projeto de menu responsivo desenvolvido utilizando HTML, CSS e JavaSc
 ---
 ## Como Usar
 
-1. Clone o repositório:
+1. Abra o link abaixo no seu navegador
+https://devandreluis.github.io/menu-responsivo/#
 
+2. ou copie e cole o link abaixo para clonar o repositorio.
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+
+
 
 
